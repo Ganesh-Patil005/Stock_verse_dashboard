@@ -1,7 +1,7 @@
 
 
 import Dashboard from "./Dashboard";
-import TopBar from "./TopBar";
+import TopBar from "./Topbar";  
 
 const Home = () => {
   return (
